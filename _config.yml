@@ -67,5 +67,6 @@ theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+deploy: 
+  type: git
+  repo: https://13636695215:yzb960104@git.duapp.com/appidanlvsrr24w
